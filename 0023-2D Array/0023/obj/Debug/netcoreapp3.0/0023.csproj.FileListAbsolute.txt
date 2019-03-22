@@ -1,0 +1,48 @@
+C:\Users\ennis\Desktop\VS\0023\0023\bin\Debug\netcoreapp3.0\0023.exe
+C:\Users\ennis\Desktop\VS\0023\0023\bin\Debug\netcoreapp3.0\0023.deps.json
+C:\Users\ennis\Desktop\VS\0023\0023\bin\Debug\netcoreapp3.0\0023.runtimeconfig.json
+C:\Users\ennis\Desktop\VS\0023\0023\bin\Debug\netcoreapp3.0\0023.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\VS\0023\0023\bin\Debug\netcoreapp3.0\0023.dll
+C:\Users\ennis\Desktop\VS\0023\0023\bin\Debug\netcoreapp3.0\0023.pdb
+C:\Users\ennis\Desktop\VS\0023\0023\obj\Debug\netcoreapp3.0\0023.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\0023\0023\obj\Debug\netcoreapp3.0\0023.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\0023\0023\obj\Debug\netcoreapp3.0\0023.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\VS\0023\0023\obj\Debug\netcoreapp3.0\0023.AssemblyInfo.cs
+C:\Users\ennis\Desktop\VS\0023\0023\obj\Debug\netcoreapp3.0\0023.dll
+C:\Users\ennis\Desktop\VS\0023\0023\obj\Debug\netcoreapp3.0\0023.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.exe
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.deps.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.runtimeconfig.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.dll
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.AssemblyInfo.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.dll
+C:\Users\ennis\Desktop\VS\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\bin\Debug\netcoreapp3.0\0023.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023\0023\obj\Debug\netcoreapp3.0\0023.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\bin\Debug\netcoreapp3.0\0023.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\bin\Debug\netcoreapp3.0\0023.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\bin\Debug\netcoreapp3.0\0023.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\bin\Debug\netcoreapp3.0\0023.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\bin\Debug\netcoreapp3.0\0023.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\bin\Debug\netcoreapp3.0\0023.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\obj\Debug\netcoreapp3.0\0023.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\obj\Debug\netcoreapp3.0\0023.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\obj\Debug\netcoreapp3.0\0023.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\obj\Debug\netcoreapp3.0\0023.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\obj\Debug\netcoreapp3.0\0023.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0023-2D Array\0023\obj\Debug\netcoreapp3.0\0023.pdb
