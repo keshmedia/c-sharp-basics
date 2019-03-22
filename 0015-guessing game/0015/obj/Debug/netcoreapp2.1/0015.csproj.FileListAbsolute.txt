@@ -1,0 +1,23 @@
+C:\Users\ennis\Desktop\VS\0015\0015\obj\Debug\netcoreapp2.1\0015.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\0015\0015\obj\Debug\netcoreapp2.1\0015.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\0015\0015\obj\Debug\netcoreapp2.1\0015.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\VS\0015\0015\obj\Debug\netcoreapp2.1\0015.AssemblyInfo.cs
+C:\Users\ennis\Desktop\VS\0015\0015\bin\Debug\netcoreapp2.1\0015.deps.json
+C:\Users\ennis\Desktop\VS\0015\0015\bin\Debug\netcoreapp2.1\0015.runtimeconfig.json
+C:\Users\ennis\Desktop\VS\0015\0015\bin\Debug\netcoreapp2.1\0015.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\VS\0015\0015\bin\Debug\netcoreapp2.1\0015.dll
+C:\Users\ennis\Desktop\VS\0015\0015\bin\Debug\netcoreapp2.1\0015.pdb
+C:\Users\ennis\Desktop\VS\0015\0015\obj\Debug\netcoreapp2.1\0015.dll
+C:\Users\ennis\Desktop\VS\0015\0015\obj\Debug\netcoreapp2.1\0015.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\bin\Debug\netcoreapp2.1\0015.deps.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\bin\Debug\netcoreapp2.1\0015.runtimeconfig.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\bin\Debug\netcoreapp2.1\0015.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\bin\Debug\netcoreapp2.1\0015.dll
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\bin\Debug\netcoreapp2.1\0015.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\obj\Debug\netcoreapp2.1\0015.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\obj\Debug\netcoreapp2.1\0015.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\obj\Debug\netcoreapp2.1\0015.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\obj\Debug\netcoreapp2.1\0015.AssemblyInfo.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\obj\Debug\netcoreapp2.1\0015.dll
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\obj\Debug\netcoreapp2.1\0015.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\0015\0015\bin\Debug\netcoreapp2.1\0015.exe
