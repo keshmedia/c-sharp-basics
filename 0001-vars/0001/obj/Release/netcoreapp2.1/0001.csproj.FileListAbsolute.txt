@@ -1,0 +1,10 @@
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\bin\Release\netcoreapp2.1\0001.deps.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\bin\Release\netcoreapp2.1\0001.runtimeconfig.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\bin\Release\netcoreapp2.1\0001.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\bin\Release\netcoreapp2.1\0001.dll
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\bin\Release\netcoreapp2.1\0001.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\obj\Release\netcoreapp2.1\0001.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\obj\Release\netcoreapp2.1\0001.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\obj\Release\netcoreapp2.1\0001.AssemblyInfo.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\obj\Release\netcoreapp2.1\0001.dll
+C:\Users\ennis\Desktop\VS\my C# Lessons\0001\0001\obj\Release\netcoreapp2.1\0001.pdb
