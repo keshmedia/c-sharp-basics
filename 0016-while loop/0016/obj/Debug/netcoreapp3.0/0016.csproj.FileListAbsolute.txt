@@ -1,0 +1,12 @@
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\bin\Debug\netcoreapp3.0\0016.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\bin\Debug\netcoreapp3.0\0016.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\bin\Debug\netcoreapp3.0\0016.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\bin\Debug\netcoreapp3.0\0016.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\bin\Debug\netcoreapp3.0\0016.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\bin\Debug\netcoreapp3.0\0016.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\obj\Debug\netcoreapp3.0\0016.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\obj\Debug\netcoreapp3.0\0016.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\obj\Debug\netcoreapp3.0\0016.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\obj\Debug\netcoreapp3.0\0016.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\obj\Debug\netcoreapp3.0\0016.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0016-while loop\0016\obj\Debug\netcoreapp3.0\0016.pdb
