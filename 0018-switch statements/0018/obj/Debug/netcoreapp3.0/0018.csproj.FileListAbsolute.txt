@@ -1,0 +1,24 @@
+C:\Users\ennis\Desktop\VS\0018\0018\bin\Debug\netcoreapp3.0\0018.exe
+C:\Users\ennis\Desktop\VS\0018\0018\bin\Debug\netcoreapp3.0\0018.deps.json
+C:\Users\ennis\Desktop\VS\0018\0018\bin\Debug\netcoreapp3.0\0018.runtimeconfig.json
+C:\Users\ennis\Desktop\VS\0018\0018\bin\Debug\netcoreapp3.0\0018.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\VS\0018\0018\bin\Debug\netcoreapp3.0\0018.dll
+C:\Users\ennis\Desktop\VS\0018\0018\bin\Debug\netcoreapp3.0\0018.pdb
+C:\Users\ennis\Desktop\VS\0018\0018\obj\Debug\netcoreapp3.0\0018.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\0018\0018\obj\Debug\netcoreapp3.0\0018.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\0018\0018\obj\Debug\netcoreapp3.0\0018.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\VS\0018\0018\obj\Debug\netcoreapp3.0\0018.AssemblyInfo.cs
+C:\Users\ennis\Desktop\VS\0018\0018\obj\Debug\netcoreapp3.0\0018.dll
+C:\Users\ennis\Desktop\VS\0018\0018\obj\Debug\netcoreapp3.0\0018.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\bin\Debug\netcoreapp3.0\0018.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\bin\Debug\netcoreapp3.0\0018.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\bin\Debug\netcoreapp3.0\0018.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\bin\Debug\netcoreapp3.0\0018.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\bin\Debug\netcoreapp3.0\0018.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\bin\Debug\netcoreapp3.0\0018.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\obj\Debug\netcoreapp3.0\0018.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\obj\Debug\netcoreapp3.0\0018.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\obj\Debug\netcoreapp3.0\0018.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\obj\Debug\netcoreapp3.0\0018.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\obj\Debug\netcoreapp3.0\0018.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0018-switch statements\0018\obj\Debug\netcoreapp3.0\0018.pdb
