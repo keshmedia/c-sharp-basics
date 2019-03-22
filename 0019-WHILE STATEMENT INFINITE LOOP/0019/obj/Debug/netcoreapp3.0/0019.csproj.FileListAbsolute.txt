@@ -1,0 +1,24 @@
+C:\Users\ennis\Desktop\VS\0019\0019\bin\Debug\netcoreapp3.0\0019.exe
+C:\Users\ennis\Desktop\VS\0019\0019\bin\Debug\netcoreapp3.0\0019.deps.json
+C:\Users\ennis\Desktop\VS\0019\0019\bin\Debug\netcoreapp3.0\0019.runtimeconfig.json
+C:\Users\ennis\Desktop\VS\0019\0019\bin\Debug\netcoreapp3.0\0019.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\VS\0019\0019\bin\Debug\netcoreapp3.0\0019.dll
+C:\Users\ennis\Desktop\VS\0019\0019\bin\Debug\netcoreapp3.0\0019.pdb
+C:\Users\ennis\Desktop\VS\0019\0019\obj\Debug\netcoreapp3.0\0019.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\0019\0019\obj\Debug\netcoreapp3.0\0019.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\0019\0019\obj\Debug\netcoreapp3.0\0019.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\VS\0019\0019\obj\Debug\netcoreapp3.0\0019.AssemblyInfo.cs
+C:\Users\ennis\Desktop\VS\0019\0019\obj\Debug\netcoreapp3.0\0019.dll
+C:\Users\ennis\Desktop\VS\0019\0019\obj\Debug\netcoreapp3.0\0019.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\bin\Debug\netcoreapp3.0\0019.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\bin\Debug\netcoreapp3.0\0019.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\bin\Debug\netcoreapp3.0\0019.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\bin\Debug\netcoreapp3.0\0019.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\bin\Debug\netcoreapp3.0\0019.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\bin\Debug\netcoreapp3.0\0019.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\obj\Debug\netcoreapp3.0\0019.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\obj\Debug\netcoreapp3.0\0019.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\obj\Debug\netcoreapp3.0\0019.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\obj\Debug\netcoreapp3.0\0019.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\obj\Debug\netcoreapp3.0\0019.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0019-WHILE STATEMENT INFINITE LOOP\0019\obj\Debug\netcoreapp3.0\0019.pdb
