@@ -1,0 +1,12 @@
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\bin\Debug\netcoreapp3.0\0014.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\bin\Debug\netcoreapp3.0\0014.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\bin\Debug\netcoreapp3.0\0014.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\bin\Debug\netcoreapp3.0\0014.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\bin\Debug\netcoreapp3.0\0014.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\bin\Debug\netcoreapp3.0\0014.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\obj\Debug\netcoreapp3.0\0014.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\obj\Debug\netcoreapp3.0\0014.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\obj\Debug\netcoreapp3.0\0014.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\obj\Debug\netcoreapp3.0\0014.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\obj\Debug\netcoreapp3.0\0014.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0014-Calculator with try catch ERROR\0014\obj\Debug\netcoreapp3.0\0014.pdb
