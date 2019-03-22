@@ -1,0 +1,24 @@
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\bin\Debug\netcoreapp3.0\0011.exe
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\bin\Debug\netcoreapp3.0\0011.deps.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\bin\Debug\netcoreapp3.0\0011.runtimeconfig.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\bin\Debug\netcoreapp3.0\0011.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\bin\Debug\netcoreapp3.0\0011.dll
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\bin\Debug\netcoreapp3.0\0011.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\obj\Debug\netcoreapp3.0\0011.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\obj\Debug\netcoreapp3.0\0011.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\obj\Debug\netcoreapp3.0\0011.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\obj\Debug\netcoreapp3.0\0011.AssemblyInfo.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\obj\Debug\netcoreapp3.0\0011.dll
+C:\Users\ennis\Desktop\VS\my C# Lessons\0011\0011\obj\Debug\netcoreapp3.0\0011.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\bin\Debug\netcoreapp3.0\0011.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\bin\Debug\netcoreapp3.0\0011.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\bin\Debug\netcoreapp3.0\0011.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\bin\Debug\netcoreapp3.0\0011.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\bin\Debug\netcoreapp3.0\0011.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\bin\Debug\netcoreapp3.0\0011.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\obj\Debug\netcoreapp3.0\0011.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\obj\Debug\netcoreapp3.0\0011.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\obj\Debug\netcoreapp3.0\0011.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\obj\Debug\netcoreapp3.0\0011.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\obj\Debug\netcoreapp3.0\0011.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0011-return statements\0011\obj\Debug\netcoreapp3.0\0011.pdb
