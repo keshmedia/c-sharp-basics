@@ -1,0 +1,60 @@
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\bin\Debug\Guess Number.exe.config
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\bin\Debug\Guess Number.exe
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\bin\Debug\Guess Number.pdb
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess Number.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess Number_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess Number_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess Number.g.resources
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess_Number.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess Number.exe
+C:\Users\ennis\Desktop\VS\Guess Number\Guess Number\obj\Debug\Guess Number.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\bin\Debug\Guess Number.exe.config
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\bin\Debug\Guess Number.exe
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\bin\Debug\Guess Number.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess Number_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess Number_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess Number.g.resources
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess_Number.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess Number.exe
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess Number.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number\Guess Number\obj\Debug\Guess Number.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\bin\Debug\Guess Number.exe.config
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\bin\Debug\Guess Number.exe
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\bin\Debug\Guess Number.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.g.resources
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess_Number.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.exe
+C:\Users\ennis\Desktop\VS\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\bin\Debug\Guess Number.exe.config
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\bin\Debug\Guess Number.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\bin\Debug\Guess Number.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number_MarkupCompile.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number_MarkupCompile.lref
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.g.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess_Number.Properties.Resources.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\Guess Number with TRY CATCH\Guess Number\obj\Debug\Guess Number.pdb
