@@ -1,0 +1,24 @@
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\bin\Debug\netcoreapp3.0\0006.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\bin\Debug\netcoreapp3.0\0006.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\bin\Debug\netcoreapp3.0\0006.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\bin\Debug\netcoreapp3.0\0006.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\bin\Debug\netcoreapp3.0\0006.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\bin\Debug\netcoreapp3.0\0006.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\obj\Debug\netcoreapp3.0\0006.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\obj\Debug\netcoreapp3.0\0006.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\obj\Debug\netcoreapp3.0\0006.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\obj\Debug\netcoreapp3.0\0006.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\obj\Debug\netcoreapp3.0\0006.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006\0006\obj\Debug\netcoreapp3.0\0006.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\bin\Debug\netcoreapp3.0\0006.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\bin\Debug\netcoreapp3.0\0006.deps.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\bin\Debug\netcoreapp3.0\0006.runtimeconfig.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\bin\Debug\netcoreapp3.0\0006.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\bin\Debug\netcoreapp3.0\0006.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\bin\Debug\netcoreapp3.0\0006.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\obj\Debug\netcoreapp3.0\0006.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\obj\Debug\netcoreapp3.0\0006.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\obj\Debug\netcoreapp3.0\0006.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\obj\Debug\netcoreapp3.0\0006.AssemblyInfo.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\obj\Debug\netcoreapp3.0\0006.dll
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\0006-user input\0006\obj\Debug\netcoreapp3.0\0006.pdb
