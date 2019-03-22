@@ -1,0 +1,96 @@
+C:\Users\ennis\Desktop\VS\W1\W1\bin\Debug\W1.exe.config
+C:\Users\ennis\Desktop\VS\W1\W1\bin\Debug\W1.exe
+C:\Users\ennis\Desktop\VS\W1\W1\bin\Debug\W1.pdb
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\W1_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\W1_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\W1.g.resources
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\W1.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\W1.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\W1.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\W1.exe
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\W1.pdb
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page1.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page1.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page2.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page3.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page4.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page5.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page6.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page7.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page8.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page9.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page2.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page3.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page4.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page5.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page6.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page7.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page8.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page9.baml
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page10.g.cs
+C:\Users\ennis\Desktop\VS\W1\W1\obj\Debug\pages\Page10.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\bin\Debug\W1.exe.config
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\bin\Debug\W1.exe
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\bin\Debug\W1.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page1.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page1.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page10.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page2.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page3.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page4.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page5.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page6.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page7.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page8.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page9.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page10.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page2.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page3.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page4.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page5.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page6.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page7.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page8.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\pages\Page9.baml
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1.g.resources
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1.exe
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1.pdb
+C:\Users\ennis\Desktop\VS\my C# Lessons\W1\W1\obj\Debug\W1.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\bin\Debug\W1.exe.config
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\bin\Debug\W1.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\bin\Debug\W1.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\W1_MarkupCompile.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\W1.g.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\W1.Properties.Resources.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\W1.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\W1.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\W1.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\W1\W1\obj\Debug\W1.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\bin\Debug\W1.exe.config
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\bin\Debug\W1.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\bin\Debug\W1.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\W1.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\W1_MarkupCompile.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\W1.g.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\W1.Properties.Resources.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\W1.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\W1.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\W1.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\my C# Lessons\WPF dropDownMenu\W1\obj\Debug\W1.pdb
